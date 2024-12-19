@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\main.cpp(72,32): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\main.cpp(265,52): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\main.cpp(265,38): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\main.cpp(266,52): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\main.cpp(266,38): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\main.cpp(267,52): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\main.cpp(267,38): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\main.cpp(268,52): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\main.cpp(268,38): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  Week9_2D_Programming.vcxproj -> C:\Users\popoc\Downloads\Week9_2D_Programming\Week9_2D_Programming\x64\Debug\Week9_2D_Programming.exe

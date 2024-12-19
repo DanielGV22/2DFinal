@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\popoc\\Downloads\\Week9_2D_Programming\\Week9_2D_Programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52881EE6-60EE-48C1-A9E5-B11906377366}|Week9_2D_Programming.vcxproj|C:\\Users\\popoc\\Downloads\\Week9_2D_Programming\\Week9_2D_Programming\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52881EE6-60EE-48C1-A9E5-B11906377366}|Week9_2D_Programming.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\popoc\\Downloads\\Week9_2D_Programming\\Week9_2D_Programming\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\popoc\\Downloads\\Week9_2D_Programming\\Week9_2D_Programming\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T21:51:48.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
