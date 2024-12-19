@@ -3,6 +3,7 @@ Final project for 2D programming
 # Black Hole Simulation
 
 A visually pleasing and physically-inspired simulation of a black hole with realistic gravitational effects, particle systems, and spaghettification of planets.
+![image alt](https://github.com/DanielGV22/2DFinal/blob/bd26b0637fdf863a89dcf64b7f557531ee074c20/Capture.PNG)
 
 ## Features
 
